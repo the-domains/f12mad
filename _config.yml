@@ -1,0 +1,14 @@
+layout_spectrum: 0.8043866627849638
+typography_spectrum: 0.08874270785599947
+color:
+  brandStrength: 0.020657823188230395
+  lightness: 0.25632367050275207
+  saturation: 0.4036985959392041
+  rhythmicContrast: 0.5385361211374402
+  brandColors:
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+name: F12MAD
